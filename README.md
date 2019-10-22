@@ -1,9 +1,5 @@
 # WishList-FrontEnd
 
-<p align="center">
-  <img src="./client/src/assets/Finished-Logo.png"/>
-</p>
-
 The Wish List application allows the user to create a personalised collection of products that they would like to buy or receive as a present.
 
 ## Screenshots
