@@ -5,9 +5,10 @@
 .title-friendswishlist {
   font-size: 4vh;
   margin-left: 2vh;
-  margin-top: 5vh; 
+  margin-top: 15vh; 
   display: flex;
   justify-content: center;
+  color: white;
 }
 
 .table-friendswishlist {  

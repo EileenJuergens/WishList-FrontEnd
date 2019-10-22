@@ -1,4 +1,12 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-image: url('./assets/white.jpg');
+  background: #A0B1B9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  height: 100vh;
 }

@@ -5,9 +5,10 @@
 .title-form {
   font-size: 4vh;
   margin-left: 2vh;
-  margin-top: 5vh; 
+  margin-top: 12vh; 
   display: flex;
   justify-content: center;
+  color: white;
 }
 
 .form-input-btn {
@@ -49,7 +50,7 @@ input {
 }
 
 .btn-form {
-  background: #4382E3;
+  background: #5b8dac;
   border-radius: 3px;
   border: 0px;
   color: white;

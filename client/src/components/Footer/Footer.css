@@ -1,0 +1,20 @@
+.footer {
+  height: 8%;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: #466d85;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0vh 1.5vh 0vh 1.5vh;
+}
+
+.footer-item {
+  border: 0px;
+  color: #5b8dac;
+  height: 5vh;
+  width: 5vh;
+  margin: 1vh;
+}

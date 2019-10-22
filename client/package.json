@@ -8,6 +8,7 @@
     "lottie-web": "^5.5.9",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-icons": "^3.7.0",
     "react-lottie": "^1.2.3",
     "react-redux": "^7.1.1",
     "react-router-dom": "^5.0.1",

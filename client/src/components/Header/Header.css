@@ -1,0 +1,36 @@
+.header {
+  height: 8%;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background-color: #466d85;
+}
+
+.apple-mockup {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5vh 3.8vh 0.5vh 4vh;
+}
+
+.apple-left-items {
+  font-size: 1.5vh;
+  margin: 0;
+}
+
+.apple-right-items {
+  margin-left: 0.3vh;
+}
+
+.signal {
+  margin-left: 2vh;
+}
+
+.header-title {
+  font-size: 2vh;
+  color: #5b8dac;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
