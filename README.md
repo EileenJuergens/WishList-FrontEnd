@@ -13,7 +13,7 @@ The Wish List application allows the user to create a personalised collection of
 1. Clone this repo and enter!
 
    ```bash
-   git clone git@github.com:EileenJuergens/WishList-FrontEnd.git
+   git clone https://github.com/EileenJuergens/WishList-FrontEnd
    cd client
    ```
 
